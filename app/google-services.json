@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "310134520662",
+    "project_id": "databasewistiti",
+    "storage_bucket": "databasewistiti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310134520662:android:ba060da5fdf3b00e9db4f7",
+        "android_client_info": {
+          "package_name": "fr.projete3.wistiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310134520662-kbfts6mh8adesnq2rnfqsqrhau84g32n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.projete3.wistiti",
+            "certificate_hash": "209448a672a6e12ed54c336c97881e7d4165d8e4"
+          }
+        },
+        {
+          "client_id": "310134520662-b1v7iarjho7us5ptm6om8u4a2okf82rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2_Em-a-5C5925Qq6FIbrLH1fDsYgT1mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310134520662-b1v7iarjho7us5ptm6om8u4a2okf82rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
